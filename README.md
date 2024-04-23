@@ -3,8 +3,7 @@
 *Hebraisms and Other Ancient Literary Forms in the Book of Mormon*
 
 *   Chiasmus
-    *   [Short Chiasmus](docs/chiasmus_short.md) (inside a single verse, or across several paragraphs
-        - often characterized by exact quotations)
+    *   [Short Chiasmus](docs/chiasmus_short.md) (inside a single verse, or across several paragraphs – often characterized by exact quotations)
     *   [Long, or Thematic, Chiasmus](docs/chiasmus_long.md) (extended across many paragraphs, dealing
         more with repeated themes than exact phrases)
 *   [Climax](docs/climax.md)

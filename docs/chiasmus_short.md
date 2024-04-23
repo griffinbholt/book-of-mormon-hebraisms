@@ -293,4 +293,25 @@ insomuch that the Nephites did go into whatsoever part of the land they would, w
     *   B. They did raise grain in abundance, both in the north and in the south; and they did flourish exceedingly, both in the north and in the south. And they did multiply and wax exceedingly strong in the land. And they did raise many flocks and herds, yea, many fatlings. Behold their women did toil and spin, and did make all manner of cloth, of fine-twined linen and cloth of every kind, to clothe their nakedness. **[Economic prosperity in both lands]**
 *   A. And thus **the sixty and fourth year did pass away in peace**.
 
-TODO: https://www.jefflindsay.com/chiasmus.shtml
+## Ether 6:9 (see also [Word Pairs](word_pairs.md#ether-69-see-also-chiasmus))
+
+*   A. and he did thank and **praise the Lord**
+    *   B. all the **day** long
+    *   B. and when the **night** came,
+*   A. they did not cease to **praise the Lord**
+
+#### Ether 13:13 (see also [Word Pairs](word_pairs.md#ether-1313-see-also-chiasmus))
+
+*   A. **he hid himself** in the cavity of a rock
+    *   B. by **day**,
+    *   B. and by **night**
+*   A. **he went forth** viewing the things which should come upon the people.
+
+#### Ether 15:20 (see also [Word Pairs](word_pairs.md#ether-1520-see-also-chiasmus))
+
+*   A. **they fought**
+    *   B. all that **day**,
+    *   B. and when the **night** came
+*   A. **they slept upon their swords**
+
+<!-- TODO: https://www.jefflindsay.com/chiasmus.shtml -->

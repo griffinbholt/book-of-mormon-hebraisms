@@ -28,3 +28,8 @@
 *   "Laman *and* Lemuel *and* the sons of Ishmael" (1 Nephi 16:20)
 *   "*and* also my brethren *and* the sons of Ishmael *and* our wives" (1 Nephi 16:27)
 *   "they hardened their hearts *and* blinded their minds, *and* reviled against Moses" (1 Nephi 17:30)
+
+*   "to the poor, *and* the needy, *and* the sick, *and* the afflicted" (Alma 1:27)
+*   "the needy *and* the naked *and* those who were hungry, *and* those who were athirst, *and* those who were sick and afflicted" (Alma 4:12)
+
+*   "with their sick *and* their afflicted, *and* their lame, *and* with their blind, *and* with their dumb, *and* with all them that were afflicted in any manner" (3 Nephi 17:9)
