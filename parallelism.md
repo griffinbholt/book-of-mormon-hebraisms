@@ -15,7 +15,7 @@
     *   b. unto the fulfilling of *all his words*.
 
 
-## 1 Nephi 17:35-39 (Antithetical / Coordinating - see also Chiasmus)
+## 1 Nephi 17:35-39 (Antithetical / Coordinating - see also [Chiasmus](chiasmus_short.md#1-nephi-1735-38))
 
 ### A
 *   a. the Lord did *curse* the land against *them*,

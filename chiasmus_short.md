@@ -62,20 +62,20 @@
     *   B. we were exceedingly rejoiced when we came to **the seashore**;
 *   A. and **we called the place Bountiful, because of its much fruit**
 
-## 1 Nephi 17:35-38
+## 1 Nephi 17:35-38 (see also [Parallelism](parallelism.md#1-nephi-1735-39-antithetical--coordinating---see-also-chiasmus))
 
 *   A. the Lord did **curse the land against them**,
     *   B. and **bless it** unto **our fathers**;
-*   A. yea, he did curse it against **them** unto **their destruction**,
-    *   B. and he did bless it unto **our fathers** unto their **obtaining power over it**.
-        *   C. Behold, the Lord hath created **the earth**
-            *   D. that it should **be inhabited**;
-            *   D. and he hath created **his children**
-        *   C. that they should possess **it**.
-    *   B. And **he raiseth up** a **righteous nation**,
-*   A. and **destroyeth** the nations of **the wicked**.
+        *   C. yea, he did curse it against them unto **their destruction**,
+            *   D. and he did bless it unto **our fathers** unto their **obtaining power over it**.
+                *   E. Behold, the Lord hath created **the earth**
+                    *   F. that it should **be inhabited**;
+                    *   F. and he hath created **his children**
+                *   E. that they should possess **it**.
+            *   D. And **he raiseth up** a **righteous nation**,
+        *   C. and **destroyeth** the nations of **the wicked**.
     *   B. And he leadeth away **the righteous** into **precious lands**,
-*   A. and **the wicked** he destroyeth, and **curseth the land unto them** for their sakes.
+*   A. and the wicked he destroyeth, and **curseth the land unto them** for their sakes.
 
 ## 2 Nephi 1:5-7
 
