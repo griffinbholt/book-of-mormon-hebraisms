@@ -1,0 +1,1 @@
+# Symbolic Action as Prophetic Curse
