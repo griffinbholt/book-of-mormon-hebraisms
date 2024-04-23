@@ -1,1 +1,0 @@
-# Emphatic First Person Pronouns
