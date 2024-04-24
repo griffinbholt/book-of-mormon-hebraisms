@@ -194,6 +194,13 @@
     *   B. but that ye hear and know the voice by which ye shall be **called**,
 *   A. and also, **the name** by which he shall call you.
 
+## Alma 9:12 (see also [Word Pairs](word_pairs.md#alma-912-see-also-chiasmus))
+
+*   A. yea, **he will visit you**
+    *   B. **in his anger**,
+    *   B. and **in his fierce anger**
+*   A. **he will not turn away**
+
 ## Alma 34:10
 
 *   A. There should be a **great and last sacrifice**;

@@ -1,6 +1,92 @@
 # Word Pairs
 
-## Anger / Fierce Anger
+*   [Anger / Fierce Anger (6)](#anger--fierce-anger-6)
+*   [Beginning / End](#beginning--end)
+*   [Bless / Curse](#bless--curse)
+*   [City / Land](#city--land)
+*   [Day / Night (37)](#day--night-37)
+*   [Death / Hell](#death--hell)
+*   [Eat / Drink](#eat--drink)
+*   [Eyes / Heart](#eyes--heart)
+*   [Favor / Blessing](#favor--blessing)
+*   [Faith / Diligence](#faith--diligence)
+*   [Faith / Repentance](#faith--repentance)
+*   [Faith / Works (9)](#faith--works-9)
+*   [Fast(ing) / Pray(er)](#fasting--prayer)
+*   [First / Last](#first--last)
+*   [Gift / Power](#gift--power)
+*   [Gold / Silver](#gold--silver)
+*   [Good / Evil](#good--evil)
+*   [Great / Abominable](#great--abominable)
+*   [Hear / Understand](#hear--understand)
+*   [Hearken / Give Ear](#hearken--give-ear)
+*   [Hearken / Hard(en/ness) (7)](#hearken--hardenness-7)
+*   [Hearken / Hear (5)](#hearken--hear-5)
+*   [Hunger / Thirst](#hunger--thirst)
+*   [Heavens / Earth](#heavens--earth)
+*   [Jacob / Israel](#jacob--israel)
+*   [Justice / Mercy](#justice--mercy)
+*   [Life / Death](#life--death)
+*   [Light / Darkness](#light--darkness)
+*   [Lord / God](#lord--god)
+*   [Meek / Lowly](#meek--lowly)
+*   [Mountain / Valley](#mountain--valley)
+*   [Nations / Earth](#nations--earth)
+*   [Oaths / Covenants](#oaths--covenants)
+*   [Old Men / Young Men](#old-men--young-men)
+*   [Poor / Needy (4)](#poor--needy-4)
+*   [Power / Authority (28)](#power--authority-28)
+*   [Pride / Wisdom](#pride--wisdom)
+*   [Priests / Teachers](#priests--teachers)
+*   [Prophecy / Revelation](#prophecy--revelation)
+*   [Righteous / Wicked](#righteous--wicked)
+*   [Sick / Afflicted (8)](#sick--afflicted-8)
+*   [Signs / Wonders](#signs--wonders)
+*   [Sin / Righteousness](#sin--righteousness)
+*   [Soul / Heart](#soul--heart)
+*   [Tell / Declare](#tell--declare)
+*   [Thousands / Ten Thousands](#thousands--ten-thousands)
+*   [Vain / Foolish](#vain--foolish)
+*   [Visions / Dreams](#visions--dreams)
+*   [Walk / Observe](#walk--observe)
+*   [Wars / Contentions](#wars--contentions)
+*   [Wickedness / Abominations](#wickedness--abominations)
+*   [Word / Deed](#word--deed)
+
+## Anger / Fierce Anger (6)
+
+### Parallel (5)
+
+#### Mosiah 12:1
+
+*   therefore, I will visit them in my *anger*,
+*   yea, in my *fierce anger* will I visit them 
+
+#### Alma 8:29
+
+*   except ye repent I will visit this people in mine *anger*;
+*   yea, and I will not turn my *fierce anger* away.
+
+#### Alma 9:12 (see also [Chiasmus](chiasmus_short.md#alma-912-see-also-word-pairs))
+
+*   A. yea, he will visit you
+    *   B. in his *anger*,
+    *   B. and in his fierce *anger*
+*   A. he will not turn away
+
+#### Helaman 11:12
+
+*   O Lord, wilt thou turn away thine *anger*,
+*   yea, thy *fierce anger*
+
+#### Helaman 13:10-11
+
+*   Yea, I will visit them in my *fierce anger*... this shall surely come except ye repent, saith the Lord...
+*   But if ye will repent and return unto the Lord your God I will turn away mine *anger*, saith the Lord
+
+### Side-by-Side (1)
+
+*   "the *fierceness* and the *anger* of the Lamanites" (Alma 43:48)
 
 ## Beginning / End
 
@@ -225,9 +311,48 @@
 
 ## Hearken / Give Ear
 
-## Hearken / Hear
+## Hearken / Hard(en/ness) (7)
 
-### Parallel
+### Parallel (7)
+
+#### 1 Nephi 2:18
+
+*   Laman and Lemuel would not *hearken* unto my words;
+*   and being grieved because of the *hardness* of their hearts
+
+#### Alma 20:30
+
+*   more *hardened* and a more stiffnecked people;
+*   therefore they would not *hearken* unto their words
+
+#### Helaman 7:18
+
+*   It is because you have *hardened* your hearts;
+*   yea, ye will not *hearken* unto the voice of the good shepherd
+
+#### Helaman 10:13
+
+*   they did *harden* their hearts
+*   and did not *hearken* unto the words of the Lord
+
+#### Helaman 10:15
+
+*   they did still *harden* their hearts
+*   and would not *hearken* unto his words
+
+#### 3 Nephi 21:22
+
+*   if they will repent and *hearken* unto my words,
+*   and *harden* not their hearts
+
+#### Ether 11:13
+
+*   the people *hardened* their hearts,
+*   and would not *hearken* unto their words
+
+## Hearken / Hear (5)
+
+### Parallel (5)
 
 #### 2 Nephi 28:5
 
@@ -243,6 +368,16 @@
 
 *   *Hearken*, O ye house of Israel,
 *   and *hear* the words of me, a prophet of the Lord.
+
+#### Mosiah 2:9
+
+*   you should *hearken* unto me,
+*   and open your ears that ye may *hear*
+
+#### 3 Nephi 30:1
+
+*   *Hearken*, O ye Gentiles,
+*   and *hear* the words of Jesus Christ
 
 ## Hunger / Thirst
 
@@ -277,7 +412,44 @@
 *   "turning your backs upon the *poor*, and the *needy*" (Alma 5:55)
 *   "more than ye love the *poor* and the *needy*" (Mormon 8:37)
 
-## Power / Authority
+## Power / Authority (28)
+
+### Parallel
+
+#### Alma 46:34 (1)
+
+*   therefore he had *power* according to his will with the armies of the Nephites,
+*   to establish and to exercise *authority* over them
+
+### Side-by-Side (27)
+
+*   "ye have accused him that he sought *power* and *authority* over you" (2 Nephi 1:25)
+*   "but I know that he hath not sought for *power* nor *authority* over you" (2 Nephi 1:25)
+*   "they did speak the word of God with *power* and with *authority*" (Words of Mormon 1:17)
+*   "he spake with *power* and *authority* from God" (Mosiah 3:16)
+*   "baptized by the *power* and *authority* of God" (Mosiah 18:17)
+*   "that they might teach with *power* and *authority* from God" (Mosiah 18:26)
+*   "convince thee of the *power* and *authority* of God" (Mosiah 27:14)
+*   "he having *power* and *authority* from God to do these things" (Alma 5:3)
+*   "they taught with *power* and *authority* of God" (Alma 17:3)
+*   "having usurped the *power* and *authority* over the Lamanites" (Alma 25:5)
+*   "to usurp *power* and *authority* over them" (Alma 30:23)
+*   "those who sought *power* and *authority* over the people" (Alma 51:8)
+*   "the desire of *power* and *authority* which those king-men had" (Alma 60:16)
+*   "wickedness of those who are seeking for *power* and *authority*" (Alma 60:17)
+*   "desires to usurp *power* and *authority*" (Alma 60:27)
+*   "I do not fear your *power* nor your *authority*" (Alma 60:28)
+*   "they should be placed in *power* and *authority*" (Helaman 2:5)
+*   "with such great *power* and *authority*" (Helaman 5:18)
+*   "for they had *power* and *authority*" (Helaman 5:18)
+*   "preach with exceedingly great *power* and *authority*" (Helaman 6:5)
+*   "having usurped the *power* and *authority* of the land" (Helaman 7:4)
+*   "having great *power* and *authority* given unto him" (Helaman 11:18)
+*   "tempting them to seek for *power*, and *authority*" (3 Nephi 6:15)
+*   "did minister with *power* and with great *authority*" (3 Nephi 7:17)
+*   "received *power* and *authority* to baptize" (3 Nephi 12:1)
+*   "they did exercise *power* and *authority*" (4 Nephi 1:30)
+*   "seeking to put down all *power* and *authority* which cometh from God" (Moroni 8:28)
 
 ## Pride / Wisdom
 

@@ -31,5 +31,7 @@
 
 *   "to the poor, *and* the needy, *and* the sick, *and* the afflicted" (Alma 1:27)
 *   "the needy *and* the naked *and* those who were hungry, *and* those who were athirst, *and* those who were sick and afflicted" (Alma 4:12)
+*   "ye shall be smitten by famine, *and* by pestilence, *and* by the sword" (Alma 10:23)
 
+*   "seek for power, *and* authority, *and* riches, *and* the vain things of the world" (3 Nephi 6:15)
 *   "with their sick *and* their afflicted, *and* their lame, *and* with their blind, *and* with their dumb, *and* with all them that were afflicted in any manner" (3 Nephi 17:9)
