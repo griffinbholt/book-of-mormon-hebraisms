@@ -72,6 +72,17 @@
 *   that it may be *said of you, and also written*,
 *   even as it has been *said and written of them*.
 
+## Helaman 15:7-8
+
+*   And behold, ye do *know* of yourselves, for ye have witnessed it,
+*   that as many of them as are brought to the *knowledge of the truth*,
+*   and to know of *the wicked and abominable traditions* of their fathers,
+*   and are led to believe *the holy scriptures*,
+*   yea, *the prophecies* of the holy prophets, which are written,
+*   which leadeth them to *faith on the Lord, and unto repentance*,
+*   which *faith and repentance* bringeth *a change of heart* unto them—
+*   Therefore, as many as have come to this, ye know of yourselves are firm and steadfast in the faith, and in the thing wherewith they have been made free.
+
 # Ether 3:15-16
 
 *   And *never* have I ashowed myself

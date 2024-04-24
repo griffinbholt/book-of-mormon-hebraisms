@@ -9,8 +9,8 @@
 *   [Eat / Drink](#eat--drink)
 *   [Eyes / Heart](#eyes--heart)
 *   [Favor / Blessing](#favor--blessing)
-*   [Faith / Diligence](#faith--diligence)
-*   [Faith / Repentance](#faith--repentance)
+*   [Faith / Diligence (12)](#faith--diligence-12)
+*   [Faith / Repentance](#faith--repentance-26)
 *   [Faith / Works (9)](#faith--works-9)
 *   [Fast(ing) / Pray(er)](#fasting--prayer)
 *   [First / Last](#first--last)
@@ -233,9 +233,97 @@
 
 ## Favor / Blessing
 
-## Faith / Diligence
+## Faith / Diligence (12)
 
-## Faith / Repentance
+### Parallel (3)
+
+#### 1 Nephi 15:11
+
+*   ask me in *faith*, believing that ye shall receive,
+*   with *diligence* in keeping my commandments
+
+#### Enos 1:12
+
+*   And it came to pass that after I had prayed and labored with all *diligence*,
+*   the Lord said unto me: I will grant unto thee according to thy desires, because of thy *faith*
+
+#### 3 Nephi 6:14
+
+*   a few of the Lamanites who were converted unto the true *faith*; and they would not depart from it,
+*   for they were firm, and steadfast, and immovable, willing with all *diligence* to keep the commandments of the Lord
+
+### Side-by-Side (9)
+
+*   "according to the *faith* and *diligence* and heed which we did give" (1 Nephi 16:28)
+*   "according to the *faith* and *diligence* which we gave" (1 Nephi 16:29)
+*   "I did exhort my brethren to *faithfulness* and *diligence*" (1 Nephi 17:15)
+*   "by your *faith* with great *diligence*, and with patience" (Alma 32:41)
+*   "because of your *diligence* and your *faith* and your patience" (Alma 32:42)
+*   "ye shall reap the rewards of your *faith*, and your *diligence*, and patience, and long-suffering" (Alma 32:43)
+*   "forgot to exercise their *faith* and *diligence*" (Alma 37:41)
+*   "because of thy *faithfulness* and thy *diligence*" (Alma 38:3)
+*   "his *faithfulness*, and his *diligence* in keeping the commandments" (Alma 39:1)
+
+## Faith / Repentance (26)
+
+### Parallel (6)
+
+#### 2 Nephi 3:19-20 (See also [Parallelism](parallelism.md#2-nephi-319-20-synonymous-see-also-word-pairs))
+
+*   a. And it shall be as if the fruit of thy loins had cried unto them from the dust;
+    *   b. for I know their *faith*.
+*   a. And they shall cry from the dust;
+    *   b. yea, even *repentance* unto their brethren
+
+#### Alma 7:14
+
+*   therefore come and be baptized unto *repentance*,
+    *   that ye may be washed from your sins,
+*   that ye may have *faith* on the Lamb of God
+
+#### Alma 13:18
+
+*   Melchizedek having exercised mighty *faith*,
+    *   and received the office of the high priesthood according to the holy order of God,
+*   did preach *repentance* unto his people
+
+#### Ether 12:3
+
+*   exhorting the people to believe in God unto *repentance* lest they should be destroyed,
+*   saying unto them that by *faith* all things are fulfilled
+
+#### Moroni 3:3
+
+*   to preach *repentance* and remission of sins through Jesus Christ,
+*   by the endurance of *faith* on his name to the end
+
+#### Moroni 8:25 (See also [Climax](climax.md#moroni-825-26))
+
+*   And the first fruits of *repentance* is baptism;
+*   and baptism cometh by *faith*
+
+### Side-by-Side (20)
+
+*   "through *repentance* and *faith* on the Lord Jesus Christ" (Mosiah 3:12)
+*   "only through *repentance* and *faith* on the name of the Lord God Omnipotent" (Mosiah 3:21)
+*   "did preach unto them *repentance*, and redemption, and *faith* on the Lord" (Mosiah 18:7)
+*   "preach nothing save it were *repentance* and *faith* on the Lord" (Mosiah 18:20)
+*   "preaching unto the people *repentance* and *faith* on the Lord" (Mosiah 25:15)
+*   "except it were *repentance* and *faith* in God" (Mosiah 25:22)
+*   "be baptized unto *repentance*, through *faith* on his name" (Alma 9:27)
+*   "according to their *faith* and *repentance* and their holy works" (Alma 12:30)
+*   "on account of their exceeding *faith* and *repentance*" (Alma 13:10)
+*   "through *faith* and *repentance*" (Alma 22:14)
+*   "that they may have *faith* unto *repentance*" (Alma 34:15)
+*   "he that exercises no *faith* unto *repentance*" (Alma 34:16)
+*   "ye may begin to exercise your *faith* unto *repentance*" (Alma 34:17)
+*   "Preach unto them *repentance*, and *faith* on the Lord Jesus Christ" (Alma 37:33)
+*   "did exhort them to *faith* and *repentance*" (Helaman 6:4)
+*   "save it be *repentance* and *faith* on the Lord Jesus Christ" (Helaman 13:6)
+*   "which leadeth them to faith on the Lord, and unto repentance" (Helaman 15:7)
+*   "which faith and repentance bringeth a change of heart" (Helaman 15:7)
+*   "*repentance* and remission of sins through *faith* on the Lord Jesus Christ" (3 Nephi 7:16)
+*   "because of their *faith*, and the *repentance* of all their sins" (3 Nephi 27:19)
 
 ## Faith / Works (9)
 

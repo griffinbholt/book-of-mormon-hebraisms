@@ -11,4 +11,6 @@
 *   "we did take *our* bows and *our* arrows" (1 Nephi 16:14)
 *   "with *our* bows and *our* arrows and *our* stones and *our* slings" (1 Nephi 16:15)
 
+*   "because of *thy* faithfulness and *thy* diligence" (Alma 38:3)
+
 *   "with *their* sick and *their* afflicted, and *their* lame, and with *their* blind, and with *their* dumb" (3 Nephi 17:9)

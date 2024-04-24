@@ -14,11 +14,18 @@
 *   a. for behold, he hath *all power*
     *   b. unto the fulfilling of *all his words*.
 
+## 1 Nephi 17:35-39 (Antithetical / Coordinating - see also [Chiasmus](chiasmus_short.md#1-nephi-1735-38-see-also-parallelism))
 
-## 1 Nephi 17:35-39 (Antithetical / Coordinating - see also [Chiasmus](chiasmus_short.md#1-nephi-1735-38))
+### Intro
+
+*   Behold, the Lord esteemeth all flesh in one;
+    *   he that is righteous is favored of God.
+*   But behold, this people had rejected every word of God,
+    *   and they were ripe in iniquity;
+    *   and the fulness of the wrath of God was upon them;
 
 ### A
-*   a. the Lord did *curse* the land against *them*,
+*   a. and the Lord did *curse* the land against *them*,
 *   b. and *bless* it unto *our fathers*;
 *   a. yea, he did *curse* it against *them*
     *  i. *unto their destruction*,
@@ -45,7 +52,18 @@
 *   f. and *this earth*
     *   iv. is *his footstool*.
 
+### Conclusion
+
+*   And he loveth those who will have him to be their God.
+
 ## 1 Nephi 17:45 (Antithetical)
 
 *   Ye are swift to do iniquity
 *   but slow to remember the Lord your God.
+
+## 2 Nephi 3:19-20 (Synonymous; see also [Word Pairs](word_pairs.md#2-nephi-319-20-see-also-parallelism))
+
+*   a. And it shall be as if *the fruit of thy loins had cried unto them from the dust*;
+    *   b. for I know their *faith*.
+*   a. And *they shall cry from the dust*;
+    *   b. yea, even *repentance* unto their brethren

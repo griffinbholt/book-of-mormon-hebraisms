@@ -64,18 +64,20 @@
 
 ## 1 Nephi 17:35-38 (see also [Parallelism](parallelism.md#1-nephi-1735-39-antithetical--coordinating---see-also-chiasmus))
 
-*   A. the Lord did **curse the land against them**,
-    *   B. and **bless it** unto **our fathers**;
-        *   C. yea, he did curse it against them unto **their destruction**,
-            *   D. and he did bless it unto **our fathers** unto their **obtaining power over it**.
-                *   E. Behold, the Lord hath created **the earth**
-                    *   F. that it should **be inhabited**;
-                    *   F. and he hath created **his children**
-                *   E. that they should possess **it**.
-            *   D. And **he raiseth up** a **righteous nation**,
-        *   C. and **destroyeth** the nations of **the wicked**.
-    *   B. And he leadeth away **the righteous** into **precious lands**,
-*   A. and the wicked he destroyeth, and **curseth the land unto them** for their sakes.
+*   A. Behold, the Lord esteemeth all flesh in one; **he that is righteous is favored of God**.
+    *   B. But behold, **this people** had rejected every word of God, and they were **ripe in iniquity**; and the fulness of **the wrath of God was upon them**; the Lord did **curse the land against them**,
+        *   C. and **bless it** unto **our fathers**;
+            *   D. yea, he did curse it against them unto **their destruction**,
+                *   E. and he did bless it unto **our fathers** unto their **obtaining power over it**.
+                    *   F. Behold, the Lord hath created **the earth**
+                        *   G. that it should **be inhabited**;
+                        *   G. and he hath created **his children**
+                    *   F. that they should possess **it**.
+                *   E. And **he raiseth up** a **righteous nation**,
+            *   D. and **destroyeth** the nations of **the wicked**.
+        *   C. And he leadeth away **the righteous** into **precious lands**,
+    *   B. and **the wicked** he **destroyeth**, and **curseth the land unto them** for their sakes.
+*   A. He ruleth high in the heavens, for it is his throne, and this earth is his footstool. And **he loveth those who will have him to be their God**
 
 ## 2 Nephi 1:5-7
 
@@ -193,6 +195,25 @@
         *   C. that ye are not **found on the left hand of God**,
     *   B. but that ye hear and know the voice by which ye shall be **called**,
 *   A. and also, **the name** by which he shall call you.
+
+## Mosiah 11:20-25 (see also [Prophetic Speech Forms](prophetic_speech_forms.md#mosiah-1120-25-see-also-chiasmus))
+
+*   A. Behold, **thus saith the Lord, and thus hath he commanded me**, saying, Go forth, and say unto this people, thus saith the Lord—Wo be unto this people,
+    *   for **I have seen** *their abominations, and their wickedness, and their whoredoms*; 
+        *   and **except they repent** I will visit them in mine anger.
+            *   And **except** they repent and turn to **the Lord their God**,
+                *   behold, **I will deliver them** into the hands of their enemies;
+                    *   yea, and **they shall be brought into bondage**; and they shall be afflicted by the hand of their enemies.
+                        *   And it shall come to pass that they shall know that **I am the Lord their God**, and am a jealous God, 
+                            *   visiting **the iniquities of my people**.
+                            *   And it shall come to pass that except **this people repent**
+                        *   and turn unto **the Lord their God**,
+                    *   **they shall be brought into bondage**;
+                *   and **none shall deliver them**,
+            *   **except** it be **the Lord the Almighty God**.
+        *   Yea, and it shall come to pass that when they shall cry unto me I will be slow to hear their cries; yea, and I will suffer them that they be smitten by their enemies. And **except they repent** in sackcloth and ashes, and cry mightily to the Lord their God,
+    *   **I will not hear** *their prayers, neither will I deliver them out of their afflictions*;
+*   A. and **thus saith the Lord, and thus hath he commanded me**.
 
 ## Alma 9:12 (see also [Word Pairs](word_pairs.md#alma-912-see-also-chiasmus))
 
