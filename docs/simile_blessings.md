@@ -2,9 +2,9 @@
 
 ## Old Testament
 
-*   "And I will make thy seed as the dust of the earth*: so that if a man can
+*   "And I will make thy seed as the dust of the earth: so that if a man can
     number the dust of the earth, then shall thy seed also be numbered."
-    (Genesis 13:16)**
+    (Genesis 13:16)
 *   "In multiplying I will multiply thy seed as the stars of the heaven,
     and as the sand which is upon the sea shore" (Genesis 22:17)
 *   "And I will make thy seed to multiply as the stars of heaven" (Genesis 26:4)
