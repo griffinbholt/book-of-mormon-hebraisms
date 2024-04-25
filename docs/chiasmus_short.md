@@ -321,6 +321,21 @@ insomuch that the Nephites did go into whatsoever part of the land they would, w
     *   B. They did raise grain in abundance, both in the north and in the south; and they did flourish exceedingly, both in the north and in the south. And they did multiply and wax exceedingly strong in the land. And they did raise many flocks and herds, yea, many fatlings. Behold their women did toil and spin, and did make all manner of cloth, of fine-twined linen and cloth of every kind, to clothe their nakedness. **[Economic prosperity in both lands]**
 *   A. And thus **the sixty and fourth year did pass away in peace**.
 
+### Helaman 14:21-22
+
+*   A. which are **both above the earth and beneath**,
+    *   B. which ye know at this time are **solid**, or the more part of it is **one solid mass**, 
+        *   C. **shall be broken up**;
+        *   C. Yea, they **shall be rent in twain**,
+    *   B. and shall ever after be found **in seams and in cracks**, and in **broken fragments** upon the face of the whole earth,
+*   A. yea, **both above the earth and beneath**.
+
+### Helaman 14:23 (see also [Inverted Quotations](inverted_quotations#quotation-helaman-1423-see-also-chiasmus))
+*   A. and there shall be many **mountains laid low**,
+    *   B. like unto a **valley**,
+    *   B. and there shall be many places which are now called **valleys**
+*   A. which shall become **mountains, whose height is great**.
+
 ## Ether 6:9 (see also [Word Pairs](word_pairs.md#ether-69-see-also-chiasmus))
 
 *   A. and he did thank and **praise the Lord**

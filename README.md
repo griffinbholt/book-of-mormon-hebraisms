@@ -26,7 +26,7 @@
 *   [Resumptive Repetition](docs/resumptive_repetition.md)
 *   [Simile Blessings](docs/simile_blessings.md)
 *   [Simile Curses](docs/simile_curses.md)
-*   [Symbolic Action as Prophetic Curse](docs/symbolic_action_as_prophetic_curse.md)
+*   [Symbolic Action as Prophetic Curse or Token of a Covenant](docs/symbolic_action_as_prophetic_curse.md)
 *   [Theme Words](docs/theme_words.md)
 *   [Word Pairs](docs/word_pairs.md)
 

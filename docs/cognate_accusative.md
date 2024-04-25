@@ -1,4 +1,24 @@
-## Cognate Accusative
+# Cognate Accusative
+
+## Explanation
+
+"It is typical in Biblical Hebrew for a verb and object in a sentence to share
+the same origin or root, a grammatical usage known as the 'cognate accusative'...
+Although English grammar allows the cognate accusative, its use is not common.
+Its presence in the Book of Mormon does not come from English and, in fact, is
+not surprising given the Hebrew roots of Nephite writing" - Donald W. Parry,
+*Preserved in Translation*
+
+<!-- TODO: How to add explanations without just copying Donald's entire book? -->
+
+## Examples in the Old Testament
+
+*   "dreamed a dream" (Genesis 37:5)
+*   "wrote upon it a writing" (Exodus 39:30)
+*   "if a man vow a vow" (Numbers 30:2)
+*   "bind his soul with a bond" (Numbers 30:2)
+
+## Examples in the Book of Mormon
 
 *   "dreamed a dream" (1 Nephi 3:2, 8:2)
 *   "seen a vision" (1 Nephi 8:2; not obvious in English, but for example, in Bulgarian, "seen" (видях) and "vision" (видение) have the same root (видя) - we don't know the Hebrew words used here, however, so it may not be a cognate accusative)

@@ -6,3 +6,5 @@
     (1 Nephi 4:28)
 *   "he did fear and tremble exceedingly, *and also my brethren and the sons of
     Ishmael and our wives*" (1 Nephi 16:27)
+*   "the sun shall be darkened and refuse to give his light unto you; *and also
+    the moon and the stars*" (Helaman 14:20)
