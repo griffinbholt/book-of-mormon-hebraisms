@@ -321,6 +321,13 @@ insomuch that the Nephites did go into whatsoever part of the land they would, w
     *   B. They did raise grain in abundance, both in the north and in the south; and they did flourish exceedingly, both in the north and in the south. And they did multiply and wax exceedingly strong in the land. And they did raise many flocks and herds, yea, many fatlings. Behold their women did toil and spin, and did make all manner of cloth, of fine-twined linen and cloth of every kind, to clothe their nakedness. **[Economic prosperity in both lands]**
 *   A. And thus **the sixty and fourth year did pass away in peace**.
 
+### Helaman 12:5 (see also [Parallelism](parallelism.md#helaman-125-antithetical-see-also-chiasmus-word-pairs), [Word Pairs](word_pairs.md#helaman-125-see-also-chiasmus-parallelism))
+
+*   A. Yea, **how quick** to be **lifted up** in **pride**;
+    *   B. yea, **how quick** to **boast**, **and** do all manner of that which is **iniquity**;
+    *   B. and **how slow** are they to **remember** the Lord their God, **and** to give ear unto **his counsels**,
+*   A. yea, **how slow** to **walk** in **wisdom**'s paths
+
 ### Helaman 14:21-22
 
 *   A. which are **both above the earth and beneath**,

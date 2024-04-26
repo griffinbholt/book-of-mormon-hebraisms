@@ -33,7 +33,7 @@
 *   [Mountain / Valley](#mountain--valley)
 *   [Nations / Earth](#nations--earth)
 *   [Oaths / Covenants](#oaths--covenants)
-*   [Old Men / Young Men](#old-men--young-men)
+*   [Old Men / Young Men (2)](#old-men--young-men-2)
 *   [Poor / Needy (4)](#poor--needy-4)
 *   [Power / Authority (28)](#power--authority-28)
 *   [Pride / Wisdom](#pride--wisdom)
@@ -297,7 +297,7 @@
 *   to preach *repentance* and remission of sins through Jesus Christ,
 *   by the endurance of *faith* on his name to the end
 
-#### Moroni 8:25 (See also [Climax](climax.md#moroni-825-26))
+#### Moroni 8:25 (see also [Climax](climax.md#moroni-825-26))
 
 *   And the first fruits of *repentance* is baptism;
 *   and baptism cometh by *faith*
@@ -489,7 +489,17 @@
 
 ## Oaths / Covenants
 
-## Old Men / Young Men
+## Old Men / Young Men (2)
+
+### Parallel (1)
+
+#### Mosiah 10:9
+*   I also caused that all my *old men* that could bear arms,
+*   and also all my *young men* that were able to bear arms
+
+### Side-by-Side (1)
+
+*   "O, all ye old men, and also ye young men" (Mosiah 2:40)
 
 ## Poor / Needy (4)
 
@@ -541,6 +551,27 @@
 
 ## Pride / Wisdom
 
+### Parallel
+
+#### 2 Nephi 26:20
+
+*   And the Gentiles are *lifted up in the pride of their eyes*, 
+*   and have stumbled, because of the greatness of their stumbling block, that they have built up many churches;
+*   nevertheless, they put down the power and miracles of God,
+*   and *preach up unto themselves their own wisdom* and their own learning,
+
+#### Alma 38:11
+
+*   See that ye are not lifted up unto *pride*;
+*   yea, see that ye do not boast in your own *wisdom*
+
+#### Helaman 12:5 (see also [Chiasmus](chiasmus_short.md#helaman-125-see-also-parallelism-word-pairs), [Parallelism](parallelism.md#helaman-125-antithetical-see-also-chiasmus-word-pairs))
+
+*   A. Yea, how quick to be lifted up in *pride*;
+    *   B. yea, how quick to boast, and do all manner of that which is iniquity;
+    *   B. and how slow are they to remember the Lord their God, and to give ear unto his counsels,
+*   A. yea, how slow to walk in *wisdom*'s paths
+
 ## Priests / Teachers
 
 ## Prophecy / Revelation
@@ -591,6 +622,12 @@
 ## Tell / Declare
 
 ## Thousands / Ten Thousands
+
+### Side-by-Side
+
+*   "*thousands* and *tens of thousands*" (Alma 3:26)
+*   "*thousands* of those, yea, and *tens of thousands*" (Alma 60:22)
+*   "by *thousands* and by *tens of thousands*" (3 Nephi 4:21)
 
 ## Vain / Foolish
 

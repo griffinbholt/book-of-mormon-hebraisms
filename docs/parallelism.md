@@ -14,7 +14,9 @@
 *   a. for behold, he hath *all power*
     *   b. unto the fulfilling of *all his words*.
 
-## 1 Nephi 17:35-39 (Antithetical / Coordinating - see also [Chiasmus](chiasmus_short.md#1-nephi-1735-38-see-also-parallelism))
+## 1 Nephi 17:35-39 (Antithetical, Coordinating, Extended - see also [Chiasmus](chiasmus_short.md#1-nephi-1735-38-see-also-parallelism))
+
+**Theme:** The Lord, the Land, and the Righteous/Wicked
 
 ### Intro
 
@@ -58,8 +60,42 @@
 
 ## 1 Nephi 17:45 (Antithetical)
 
-*   Ye are swift to do iniquity
-*   but slow to remember the Lord your God.
+*   Ye are *swift to do iniquity*
+*   but *slow to remember the Lord your God*.
+
+## 1 Nephi 17:47 (Synonymous)
+
+*   Behold, *my soul is rent* with anguish because of you,
+*   and *my heart is pained*.
+
+## 1 Nephi 19:10 (Extended)
+
+**Theme:** The Message of Christ and the Messengers
+
+*   A. the God of Jacob, *yieldeth himself*,
+    *   B. *according to the words* of the angel,
+*   A. as a man, into the hands of wicked men, *to be lifted up*,
+    *   B. *according to the words* of Zenock,
+*   A. and *to be crucified*,
+    *   B. *according to the words* of Neum,
+*   A. and *to be buried* in a sepulchre,
+    *   B. *according to the words* of Zenos.
+
+## 1 Nephi 19:19 (Extended)
+
+**Theme:** Three Essentials of Christ's Sufferings
+
+*   A. wherefore *they scourge him*,
+    *   B. and *he suffereth it*;
+*   A. and *they smite him*,
+    *   B. and *he suffereth it*.
+*   A. Yea, *they spit upon him*,
+    *   B. and *he suffereth it*.
+
+## 2 Nephi 2:25 (Coordinating)
+
+*   Adam fell that men might be;
+*   and men are, that they might have joy.
 
 ## 2 Nephi 3:19-20 (Synonymous; see also [Word Pairs](word_pairs.md#2-nephi-319-20-see-also-parallelism))
 
@@ -67,3 +103,114 @@
     *   b. for I know their *faith*.
 *   a. And *they shall cry from the dust*;
     *   b. yea, even *repentance* unto their brethren
+
+## 2 Nephi 4:17 (Synonymous)
+
+*   Yea, *my heart* *sorroweth* because of *my flesh*;
+*   *my soul* *grieveth* because of *mine iniquities*.
+
+## 2 Nephi 9:11-12 (Extended)
+
+**Theme:** Two Categories of Death–Jesus Christ is the Deliverer
+
+Because of the way of deliverance of our God, the Holy One of Israel,
+*   A. *this death*,
+    *   B. of which *I have spoken*,
+        *   C. which is the *temporal*,
+            *   D. shall *deliver up its dead*;
+                *   E. *which death* is the grave.
+*   A. and *this death*
+    *   B. of which *I have spoken*,
+        *   C. which is the *spiritual* death,
+            *   D. shall *deliver up its dead*;
+                *   E. *which spiritual death* is hell.
+
+## 2 Nephi 9:31-38 (Coordinating, Extended; see also [Prophetic Speech Forms: Woe Oracle](prophetic_speech_forms.md#woe-oracle), [Theme Words](theme_words.md#2-nephi-931-36-wo-see-also-parallelism-prophetic-speech-forms-woe-oracle))
+
+**Theme:** Warnings against and Consequences of Sin
+
+*   And wo unto the deaf that will not hear;
+    *   for they shall perish.
+*   Wo unto the blind that will not see;
+    *   for they shall perish also.
+*   Wo unto the uncircumcised of heart,
+    *   for a knowledge of their iniqiuities shall smite them at the last day.
+*   Wo unto the liar,
+    *   for he shall be thrust down to hell.
+*   Wo unto the murderer who deliberately killeth,
+    *   for he shall die.
+*   Wo unto them who commit whoredoms,
+    *   for they shall be thrust down to hell.
+*   Yea, wo unto those that worship idols,
+    *   for the devil of all devils delighteth in them.
+*   And, in fine, wo unto all those who die in their sins;
+    *   for they shall return to God, and behold his face, and remain in their sins.
+
+## 2 Nephi 9:39 (Antithetical)
+
+*   Remember, to be *carnally-minded* is *death*,
+*   and to be *spiritually-minded* is *life eternal*.
+
+## 2 Nephi 9:52 (Synonymous)
+
+*   *pray unto him* continually *by day*,
+*   and *give thanks unto his holy name by night*
+
+## 2 Nephi 25:2 (Synonymous)
+
+*   for *their works* were *works* of *darkness*,
+*   and *their doings* were *doings* of *abominations*
+
+## 2 Nephi 29:12 (Extended)
+
+**Theme:** Christ Speaks and the Nations Shall Write It
+
+*   A. For behold, *I shall speak* unto the Jews
+    *   B. and *they shall write it*;
+*   A. and *I shall also speak* unto the Nephites
+    *   B. and *they shall write it*;
+*   A. and *I shall also speak* unto the other tribes of the house of Israel...
+    *   B. and *they shall write it*;
+*   A. and *I shall also speak* unto all nations of the earth
+    *   B. and *they shall write it*.
+
+## Alma 5:40 (Antithetical; see also [Disjunctive Use of "And"](disjunctive_and.md))
+
+*   For I say unto you that *whatsoever is good cometh from God*,
+*   and *whatsoever is evil cometh from the devil*.
+
+## Alma 12:33-34 (Extended)
+
+**Theme:** The Principle of Mercy through the Son
+
+*   A. If ye will *repent*,
+    *   B. and *harden not your hearts*,
+        *   C. then will I have *mercy* upon you,
+            *   D. through mine *Only Begotten Son*;
+*   A. Therefore, whosoever *repenteth*,
+    *   B. and *hardeneth not his heart*,
+        *   C. he shall have claim on *mercy*
+            *   D. through mine *Only Begotten Son*, unto a remission of his sins; and these shall enter into my rest.
+
+## Alma 22:6 (Antithetical; see also [Disjunctive Use of "And"](disjunctive_and.md))
+
+*   *If ye will repent ye shall be saved*,
+*   and *if ye will not repent, ye shall be cast off at the last day.*
+
+## Alma 36:4 (Antithetical)
+
+*   And I would not that ye think I know of myself–
+*   *not of the temporal* but *of the spiritual*,
+*   *not of the carnal mind* but *of God*.
+
+## Helaman 12:5 (Antithetical; see also [Chiasmus](chiasmus_short.md#helaman-125-see-also-parallelism-word-pairs), [Word Pairs](word_pairs.md#helaman-125-see-also-chiasmus-parallelism))
+
+*   A. Yea, *how quick* to be *lifted up in pride*;
+    *   B. yea, *how quick to boast*, and do all manner of that which is iniquity;
+    *   B. and *how slow* are they to *remember the Lord their God*, and to give ear unto his counsels,
+*   A. yea, how slow to *walk in wisdom's paths*
+
+## 3 Nephi 29:5 (Synonymous)
+
+*   *Wo unto him* that *spurneth* at *the doings of the Lord*;
+*   yea, *wo unto him* that *shall deny* the *Christ and his works*!

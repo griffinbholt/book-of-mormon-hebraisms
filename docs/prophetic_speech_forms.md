@@ -32,7 +32,7 @@
 
 *   "Hearken to the word of the Lord" (Jacob 2:27)
 *   "Hearken unto the voice of the Lord their God" (Helaman 12:23)
-*   "Hear the words of Jesus" (3 Nephi 30:1)
+*   "Hearken, O ye Gentiles, and hear the words of Jesus Christ" (3 Nephi 30:1)
 *   "Listen to the words of Christ" (Moroni 8:8)
 
 <!-- TODO: Search -->
