@@ -37,6 +37,7 @@ not surprising given the Hebrew roots of Nephite writing" - Donald W. Parry,
 *   "called with a holy calling" (Alma 13:3)
 *   "covered with a shallow covering" (Alma 16:11)
 *   "fear exceedingly, with fear" (Alma 18:5)
+*   "the light of everlasting life was lit up" (Alma 19:6)
 *   "decreeth unto them decrees" (Alma 29:4)
 *   "work after the manner of so curious a workmanship" (Alma 37:39)
 *   "shielded by their shields" (Alma 49:24)
