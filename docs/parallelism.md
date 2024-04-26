@@ -156,6 +156,11 @@ Because of the way of deliverance of our God, the Holy One of Israel,
 *   *pray unto him* continually *by day*,
 *   and *give thanks unto his holy name by night*
 
+## 2 Nephi 10:25 (Synonymous)
+
+*   Wherefore, may God raise you from *death* by the power of *the resurrection*,
+*   and also from *everlasting death* by the power of *the atonement*
+
 ## 2 Nephi 25:2 (Synonymous)
 
 *   for *their works* were *works* of *darkness*,

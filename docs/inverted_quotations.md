@@ -145,6 +145,69 @@ creation account in Moses:
 
 ------------
 
+
+### Original: 1 Nephi 15:28
+And I said unto them that it was an awful gulf,
+*   a. which separated the wicked **from the tree of life**,
+*   b. and also **from the saints of God**
+
+### Quotation: 1 Nephi 15:36
+Wherefore,
+*   b. the wicked are rejected **from the righteous**,
+*   a. and also **from that tree of life**,
+
+#### Notes:
+
+Here Nephi is quoting himself, referring his brothers back to an earlier
+statement he had made.
+
+------------
+
+### Original: 2 Nephi 10:24
+And remember,
+*   a. **after ye are reconciled** unto God,
+*   b. **that it is** only in and **through the grace of God that ye are saved**.
+
+### Quotation: 2 Nephi 25:23
+For we know
+*   b. **that it is by grace that we are saved**,
+*   a. **after all we can do**.
+
+#### Notes:
+
+Here Nephi is quoting his brother Jacob. This makes much more sense as a
+quotation since just before this Nephi said, "For we labor diligently to write,
+to persuade our children, and also our brethren, to believe in Christ, **and
+to be reconciled to God**".
+
+Imagine a colon after "know": "For we know: ..."
+
+------------
+
+### Original: 2 Nephi 25:23
+For we labor diligently to write,
+*   a. **to persuade our children**,
+*   b. and also **our brethren**,
+to believe in Christ
+
+### Quotation: Jacob 4:3-4
+We labor diligently to engraven these words upon plates,
+*   b. hoping that **our beloved brethren**
+*   a. and **our children will receive them**...
+...that they may know that we knew of Christ
+
+#### Notes:
+
+In 2 Nephi 25:23, Nephi was already quoting Jacob when he said "and
+to be reconciled to God; for we know that it is by grace that we are saved,
+after all we can do." After Nephi gave the plates to Jacob (Jacob 1:1-2), Jacob
+then saw that Nephi had quoted him (and was probably really touched that his
+older brother did that). So, what does Jacob do? He then quotes the great
+addition that Nephi made, right before Nephi quoted him: "For we labor diligently
+to write, to persuade our children, and also our brethren, to believe in Christ".
+
+------------
+
 ### Original: Mosiah 1:13
 *   he will no more preserve them
 *   a. by his **matchless**

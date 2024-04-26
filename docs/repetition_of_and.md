@@ -48,16 +48,34 @@
 *   "*and* also my brethren *and* the sons of Ishmael *and* our wives" (1 Nephi 16:27)
 *   "they hardened their hearts *and* blinded their minds, *and* reviled against Moses" (1 Nephi 17:30)
 
+*   "many of their proceedings are written upon the larger plates, *and* their
+    wars, *and* their contentions, *and* the reigns of their kings" (Jacob 3:13)
+
+*   "*And* we multiplied exceedingly, *and* spread upon the face of the land, *and*
+    became exceedingly rich in gold, *and* in silver, *and* in precious things, *and*
+    in fine workmanship of wood, in buildings, *and* in machinery, *and* also in
+    iron *and* copper, *and* brass *and* steel, making all manner of tools of every
+    kind to till the ground, *and* weapons of war -- yea, the sharp pointed
+    arrow, *and* the quiver, *and* the dart, *and* the javelin, *and* all preparations
+    for war" (Jarom 1:8)
+
 *   "men armed with bows, *and* with arrows, *and* with swords, *and* with cimeters,
     *and* with stones, *and* with slings; *and* they had their heads shaved that
     they were naked; *and* they were girded with a leathern girdle about
     their loins" (Mosiah 10:8)
 
-
 *   "to the poor, *and* the needy, *and* the sick, *and* the afflicted" (Alma 1:27)
-*   "the needy *and* the naked *and* those who were hungry, *and* those who were athirst, *and* those who were sick and afflicted" (Alma 4:12)
+*   "an abundance of flocks and herds, *and* fatlings of every kind, *and* also
+    abundance of grain, *and* of gold, *and* of silver, *and* of precious things, *and*
+    abundance of silk *and* fine-twined linen, *and* all manner of good homely
+    cloth" (Alma 1:29)
+*   "the needy *and* the naked *and* those who were hungry, *and* those who
+    were athirst, *and* those who were sick and afflicted" (Alma 4:12)
 *   "ye shall be smitten by famine, *and* by pestilence, *and* by the sword" (Alma 10:23)
-*   "ye shall reap the rewards of your faith, *and* your diligence, *and* patience, *and* long-suffering" (Alma 32:43)
+*   "that they should have free access to their houses, *and* also their
+    temples, *and* their sanctuaries" (Alma 23:2)
+*   "ye shall reap the rewards of your faith, *and* your diligence, *and*
+    patience, *and* long-suffering" (Alma 32:43)
 *   "he rent his coat; *and* he took a piece thereof, *and* wrote upon it—In
     memory of our God, our religion, *and* freedom, *and* our peace, our wives,
     *and* our children—*and* he fastened it upon the end of a pole. *And* he
@@ -82,3 +100,14 @@
     *and* their wickedness, *and* their murders, *and* their robbings, *and* their
     plundering, *and* all manner of abominations *and* whoredoms, cannot be
     contained in this work" (Helaman 3:14)
+
+*   "Having all manner of fruit, *and* of grain, *and* of silks, *and* of fine
+    linen, *and* of gold, *and* of silver, *and* of precious things; *and* also
+    all manner of cattle, of oxen, *and* cows, *and* of sheep, *and* of swine,
+    *and* of goats, *and* also many other kinds of animals which were useful
+    for the food of man; *and* they also had horses, *and* asses, *and* there
+    were elephants *and* cureloms *and* cumoms; all of which were useful unto
+    man, *and* more especially the elephants *and* cureloms *and* cumoms"
+    (Ether 9:17-19)
+*   "both to plow *and* to sow, to reap *and* to hoe, *and* also to thrash"
+    (Ether 10:25)

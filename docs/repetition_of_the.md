@@ -13,6 +13,9 @@
 *   "We did observe to keep *the* judgements, and *the* statutes, and *the*
     commandments of the Lord." (2 Nephi 5:10)
 
+*   "yea, *the* sharp pointed arrow, and *the* quiver, and *the* dart, and
+    *the* javelin" (Jarom 1:8)
+
 *   "to *the* poor, and *the* needy, and *the* sick, and *the* afflicted" (Alma 1:27)
 *   "*the* needy and *the* naked" (Alma 4:12)
 *   "turning your backs upon *the* poor, and *the* needy" (Alma 5:55)

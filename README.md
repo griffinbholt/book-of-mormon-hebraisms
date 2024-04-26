@@ -37,3 +37,5 @@ than his book includes.
 
 These examples are pulled from his book, from Book of Mormon Central, from
 various research papers, and from my own study of the Book of Mormon.
+
+<!-- TODO: Consider adding a section for 'Atypical English Uses of "And"' (see p. 71 of Preserved in Translation) -->
