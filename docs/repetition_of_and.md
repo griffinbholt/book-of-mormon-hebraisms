@@ -43,6 +43,7 @@
     the fine-twined linen, *and* the precious clothing, *and* the harlots"
     (1 Nephi 13:8)
 *   "they were white, *and* exceedingly fair *and* beautiful" (1 Nephi 13:15)
+*   "plain *and* pure, *and* most precious *and* easy" (1 Nephi 14:23)
 *   "with our bows *and* our arrows *and* our stones *and* our slings" (1 Nephi 16:15)
 *   "Laman *and* Lemuel *and* the sons of Ishmael" (1 Nephi 16:20)
 *   "*and* also my brethren *and* the sons of Ishmael *and* our wives" (1 Nephi 16:27)

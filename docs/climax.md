@@ -1,6 +1,6 @@
 # Climax / Climactic Expressions
 
-## 1 Nephi 15:33-35
+## 1 Nephi 15:33-35 (see also [Chiasmus](chiasmus_short.md#1-nephi-1533-34-see-also-climax-theme-words), [Theme Words](theme_words.md#1-nephi-1533-34-filthy-see-also-chiasmus-climax))
 
 *   Wherefore, they must be brought to *stand before God*,
 *   to be judged of *their works*;

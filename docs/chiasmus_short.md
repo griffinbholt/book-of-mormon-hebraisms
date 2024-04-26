@@ -53,6 +53,17 @@
     *   B. for there is one God and one Shepherd over **all the earth**.
 *   A. And the time cometh that he shall manifest himself unto all nations, **both unto the Jews and also unto the Gentiles**;
 
+## 1 Nephi 15:33-34 (see also [Climax](climax.md#1-nephi-1533-35-see-also-chiasmus-theme-words), [Theme Words](theme_words.md#1-nephi-1533-34-filthy-see-also-chiasmus-climax))
+
+*   A. and if **their works have been filthiness**
+    *   B. they **must needs be filthy**;
+        *   C. and if they be **filthy** it must needs be that they **cannot dwell in the kingdom of God**;
+            *   D. if so, **the kingdom of God must be filthy** also.
+            *   But behold, I say unto you, **the kingdom of God is not filthy**,
+        *   C. and there **cannot any unclean thing enter into the kingdom of God**;
+    *   wherefore there **must needs be** a place of **filthiness**
+*   prepared for **that which is filthy**.
+
 ## 1 Nephi 17:5-6
 
 *   A. And we did come to **the land which we called Bountiful, because of its much fruit** and also wild honey; and all these things were prepared of the Lord that we might not perish.
@@ -342,6 +353,13 @@ insomuch that the Nephites did go into whatsoever part of the land they would, w
     *   B. like unto a **valley**,
     *   B. and there shall be many places which are now called **valleys**
 *   A. which shall become **mountains, whose height is great**.
+
+## 3 Nephi 10:4-6 (see also [Parallelism](parallelism.md#3-nephi-104-6-extended-see-also-chiasmus-refrain), [Refrain](refrain.md#3-nephi-104-6-see-also-chiasmus-parallelism))
+
+*   A. And again, **how oft *would I have* gathered you as a hen gathereth her chickens under her wings**,
+    *   B. yea, **O ye people of the house of Israel**, **who have fallen**;
+    *   B. yea, **O ye people of the house of Israel**, ye that dwell at Jerusalem, as ye **that have fallen**;
+*   A. yea, **how oft *would I have* gathered you as a hen gathereth her chickens**, and ye would not.
 
 ## Ether 6:9 (see also [Word Pairs](word_pairs.md#ether-69-see-also-chiasmus))
 

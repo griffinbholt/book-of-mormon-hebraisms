@@ -215,6 +215,35 @@ Because of the way of deliverance of our God, the Holy One of Israel,
     *   B. and *how slow* are they to *remember the Lord their God*, and to give ear unto his counsels,
 *   A. yea, how slow to *walk in wisdom's paths*
 
+## 3 Nephi 10:4-6 (Extended; see also [Chiasmus](chiasmus_short.md#3-nephi-104-6-see-also-parallelism-refrain), [Refrain](refrain.md#3-nephi-104-6-see-also-chiasmus-parallelism))
+
+**Theme:** The Continuous Efforts of the Lord towards the House of Israel
+
+### To Those that Have Fallen: How Oft *Have I* Gathered You? (Past)
+
+*   B. **O ye people** of these great cities
+    *   i. **which have fallen**,
+    *   ii. who are descendants of Jacob, yea, who are **of the house of Israel**,
+*   A. **how oft *have I* gathered you as a hen gathereth her chickens under her wings**,
+    *   iii. and have nourished you.
+
+### To Those that Have Fallen: How Oft *Would I Have* Gathered You? (Past Conditional)
+
+*   A. And again, **how oft *would I have* gathered you as a hen gathereth her chickens under her wings**,
+    *   B. yea, **O ye people of the house of Israel**,
+        *   i. **who have fallen**;
+    *   B. yea, **O ye people of the house of Israel**, ye that dwell at Jerusalem,
+        *   i. as ye **that have fallen**;
+*   A. yea, **how oft *would I have* gathered you as a hen gathereth her chickens**,
+    *   iii. and ye would not.
+
+### To Those that I Have Spared: How Oft *Will I* Gather You Still? (Future)
+
+*   B. O ye **house of Israel**
+    *   i. **whom I have spared**,
+*   A. **how oft *will I* gather you as a hen gathereth her chickens under her wings**,
+    *   iii. if ye will repent and return unto me with full purpose of cheart.
+
 ## 3 Nephi 29:5 (Synonymous)
 
 *   *Wo unto him* that *spurneth* at *the doings of the Lord*;
