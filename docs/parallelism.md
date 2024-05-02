@@ -68,6 +68,13 @@
 *   Behold, *my soul is rent* with anguish because of you,
 *   and *my heart is pained*.
 
+## 1 Nephi 18:18 (Synonymous)
+
+Because of their grief and much sorrow, and the iniquity of my brethren,
+*   *they were brought near even to be carried out of this time *to meet their God*;
+*   yea, *their grey hairs were about to be brought down to lie low in the dust*;
+*   yea, even *they were near to be cast with sorrow into a watery grave*.
+
 ## 1 Nephi 19:10 (Extended)
 
 **Theme:** The Message of Christ and the Messengers
@@ -92,10 +99,21 @@
 *   A. Yea, *they spit upon him*,
     *   B. and *he suffereth it*.
 
+## 2 Nephi 1:7 (Antithetical)
+
+*   for if *iniquity* shall abound *cursed* shall be the land for their sakes,
+*   but unto *the righteous* it shall be *blessed* forever.
+
 ## 2 Nephi 2:25 (Coordinating)
 
 *   Adam fell that men might be;
 *   and men are, that they might have joy.
+
+## 2 Nephi 2:27 (Antithetical)
+
+They are free
+*   *to choose liberty and eternal life*, through *the great Mediator* of all men,
+*   or *to choose captivity and death*, according to the captivity and power of *the devil*;
 
 ## 2 Nephi 3:19-20 (Synonymous; see also [Word Pairs](word_pairs.md#2-nephi-319-20-see-also-parallelism))
 

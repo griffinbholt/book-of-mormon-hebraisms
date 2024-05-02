@@ -30,6 +30,7 @@
 
 ## Proclamation Formula
 
+*   "Hear ye the words of the prophet... hear ye the words of the prophet" (1 Nephi 19:24)
 *   "Hearken to the word of the Lord" (Jacob 2:27)
 *   "Hearken unto the voice of the Lord their God" (Helaman 12:23)
 *   "Hearken, O ye Gentiles, and hear the words of Jesus Christ" (3 Nephi 30:1)
@@ -80,6 +81,7 @@
 
 ## Revelation Formula
 
+*   "the voice of the Lord came unto my father" (1 Nephi 18:5)
 *   "Thus came the word unto me, saying" (Jacob 2:11)
 *   "The word of the Lord came unto Alma" (Alma 43:24)
 *   "a voice came unto him saying" (Helaman 10:3)

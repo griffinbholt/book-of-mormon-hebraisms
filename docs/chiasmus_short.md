@@ -90,6 +90,20 @@
     *   B. and **the wicked** he **destroyeth**, and **curseth the land unto them** for their sakes.
 *   A. He ruleth high in the heavens, for it is his throne, and this earth is his footstool. And **he loveth those who will have him to be their God**
 
+## 1 Nephi 19:6
+
+*   A. not that **I would excuse myself**
+    *   B. **because of other men**,
+    *   B. but **because of** the weakness which is in **me**, according to the flesh,
+*   A. **I would excuse myself**.
+
+## 1 Nephi 22:3-4
+
+*   A. **the house of Israel**, sooner or later, will be **scattered upon all the face of the earth**, and also among all nations.
+    *   B. And behold, **there are many** who are **already lost** from the knowledge of those who are at Jerusalem.
+    *   B. Yea, **the more part** of all the tribes **have been led away**;
+*   A. and they are **scattered to and fro upon the isles of the sea**;
+
 ## 2 Nephi 1:5-7
 
 *   A. But, said he, notwithstanding our **afflictions**,

@@ -7,8 +7,10 @@
 *   "with joy" (1 Nephi 5:1), rather than *joyfully*
 *   "with anguish" (1 Nephi 17:47), rather than *anguishedly* ("anguishedly"
     is in some dictionaries, but not in others)
-
+*   "with much soberness" (1 Nephi 18:10), rather than *very soberly*
 *   "with much harshness" (1 Nephi 18:11), rather than *very harshly*
+*   "in abundance" (1 Nephi 18:24), rather than *abundantly*
+*   "of a truth" (1 Nephi 19:2), rather than *truly*
 
 *   "with power" (2 Nephi 33:11), rather than *powerfully*
 

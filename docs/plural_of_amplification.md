@@ -11,6 +11,8 @@
     editions)
 *   "all the *energies* of my soul" (1 Nephi 15:25)
 *   "after all these *sufferings*" (1 Nephi 16:35)
+*   "with the *thunderings* and the *lightnings* of his power" (1 Nephi 19:11)
+*   "the *groanings* of the earth" (1 Nephi 19:12)
 
 *   "there shall be *bloodsheds*, and great visitations among them" (2 Nephi 1:12)
 

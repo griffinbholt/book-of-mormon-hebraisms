@@ -39,3 +39,16 @@ These examples are pulled from his book, from Book of Mormon Central, from
 various research papers, and from my own study of the Book of Mormon.
 
 <!-- TODO: Consider adding a section for 'Atypical English Uses of "And"' (see p. 71 of Preserved in Translation) -->
+
+<!-- 
+Sections that have some sort of literary devices but I can't figure them out:
+- 2 Nephi 1:12-23
+- 2 Nephi 2:27-29
+ -->
+
+<!-- 
+Separate project:
+- Intratextuality in the Book of Mormon
+    - Example: "both the heavens and the earth" (2 Nephi 2), but later in
+      Mosiah 4, 3 Nephi, and Mormon 9
+ -->

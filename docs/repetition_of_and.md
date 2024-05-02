@@ -48,6 +48,18 @@
 *   "Laman *and* Lemuel *and* the sons of Ishmael" (1 Nephi 16:20)
 *   "*and* also my brethren *and* the sons of Ishmael *and* our wives" (1 Nephi 16:27)
 *   "they hardened their hearts *and* blinded their minds, *and* reviled against Moses" (1 Nephi 17:30)
+*   "much fruits *and* meat from the wilderness, *and* honey in abundance, *and* provisions" (1 Nephi 18:6)
+*   "behold, my brethren *and* the sons of Ishmael *and* also their wives" (1 Nephi 18:9)
+*   "they began to dance, *and* to sing, *and* to speak with much rudeness" (1 Nephi 18:9)
+*   "both the cow *and* the ox, *and* the ass *and* the horse, *and* the goat
+    *and* the wild goat, *and* all manner of wild animals" (1 Nephi 18:25)
+*   "all manner of ore, both of gold, *and* of silver, *and* of copper" (1 Nephi 18:25)
+*   "I did engraven the record of my father, *and* also our journeyings in the
+    wilderness, *and* the prophecies of my father; *and* also many of mine own prophecies" (1 Nephi 19:1)
+*   "the record of my father, *and* the genealogy of his fathers, *and* the more part of all our proceedings" (1 Nephi 19:2)
+*   "by fire, *and* by smoke, *and* vapor of darkness, *and* by the opening of the
+    earth, *and* by mountains which shall be carried up" (1 Nephi 19:11)
+*   "in dominion, *and* might, *and* power, *and* great glory" (1 Nephi 22:24)
 
 *   "many of their proceedings are written upon the larger plates, *and* their
     wars, *and* their contentions, *and* the reigns of their kings" (Jacob 3:13)

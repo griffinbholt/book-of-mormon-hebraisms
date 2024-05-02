@@ -5,10 +5,12 @@
     (1 Nephi 13:8)
 *   "neither could *the* temptations and *the* fiery darts of the adversary
     overpower them" (1 Nephi 15:24)
-
 *   "There were beasts in the forests of every kind, both *the* cow and *the*
     ox, and *the* ass and *the* horse, and *the* goat and *the* wild goat."
     (1 Nephi 18:25)
+*   "*the* record of my father, and *the* genealogy of his fathers, and *the*
+    more part of all our proceedings" (1 Nephi 19:2)
+*   "with *the* thunderings and *the* lightnings of his power" (1 Nephi 19:11)
 
 *   "We did observe to keep *the* judgements, and *the* statutes, and *the*
     commandments of the Lord." (2 Nephi 5:10)

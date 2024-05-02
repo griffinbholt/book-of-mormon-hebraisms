@@ -37,6 +37,20 @@ abominable church, which was founded by the devil and his children, that he
 might lead away the souls of men down to hell—**yea, that great pit which hath
 been digged for the destruction of men**
 
+## 1 Nephi 18:6
+
+**we did go down into the ship**, with all our loading and our seeds, and
+whatsoever thing we had brought with us, every one according to his age;
+wherefore, **we did all go down into the ship**...
+
+## 1 Nephi 18:15-20
+
+**And it came to pass that we were about to be swallowed up in the depths of the sea. And after we had been driven back upon the waters for the space of four days, my brethren began to see that the judgments of God were upon them, and that they must perish save that they should repent of their iniquities; wherefore, they came unto me, and loosed the bands which were upon my wrists**, and behold they had swollen exceedingly; and also mine ankles were much swollen, and great was the soreness thereof. Nevertheless, I did look unto my God, and I did praise him all the day long; and I did not murmur against the Lord because of mine afflictions. Now my father, Lehi, had said many things unto them... and also my wife with her tears and prayers, and also my children, did not soften the hearts of my brethren that they would loose me. **And there was nothing save it were the power of God, which threatened them with destruction, could soften their hearts; wherefore, when they saw that they were about to be swallowed up in the depths of the sea they repented of the thing which they had done, insomuch that they loosed me.**
+
+## 2 Nephi 1:10
+
+**Behold, when the time cometh that they shall dwindle in unbelief**, after they have received so great blessings from the hand of the Lord—having a knowledge of the creation of the earth, and all men, knowing the great and marvelous works of the Lord from the creation of the world; having power given them to do all things by faith; having all the commandments from the beginning, and having been brought by his infinite goodness into this precious land of promise—**behold, I say, if the day shall come that they will reject the Holy One of Israel**...
+
 ## Mosiah 18:4-6
 
 **And it came to pass that as many as did believe him did go forth to a place
