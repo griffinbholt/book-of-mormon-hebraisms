@@ -224,20 +224,20 @@
 ## Mosiah 11:20-25 (see also [Prophetic Speech Forms](prophetic_speech_forms.md#mosiah-1120-25-see-also-chiasmus))
 
 *   A. Behold, **thus saith the Lord, and thus hath he commanded me**, saying, Go forth, and say unto this people, thus saith the Lord—Wo be unto this people,
-    *   for **I have seen** *their abominations, and their wickedness, and their whoredoms*; 
-        *   and **except they repent** I will visit them in mine anger.
-            *   And **except** they repent and turn to **the Lord their God**,
-                *   behold, **I will deliver them** into the hands of their enemies;
-                    *   yea, and **they shall be brought into bondage**; and they shall be afflicted by the hand of their enemies.
-                        *   And it shall come to pass that they shall know that **I am the Lord their God**, and am a jealous God, 
-                            *   visiting **the iniquities of my people**.
-                            *   And it shall come to pass that except **this people repent**
-                        *   and turn unto **the Lord their God**,
-                    *   **they shall be brought into bondage**;
-                *   and **none shall deliver them**,
-            *   **except** it be **the Lord the Almighty God**.
-        *   Yea, and it shall come to pass that when they shall cry unto me I will be slow to hear their cries; yea, and I will suffer them that they be smitten by their enemies. And **except they repent** in sackcloth and ashes, and cry mightily to the Lord their God,
-    *   **I will not hear** *their prayers, neither will I deliver them out of their afflictions*;
+    *   B. for **I have seen** *their abominations, and their wickedness, and their whoredoms*; 
+        *   C. and **except they repent** I will visit them in mine anger.
+            *   D. And **except** they repent and turn to **the Lord their God**,
+                *   E. behold, **I will deliver them** into the hands of their enemies;
+                    *   F. yea, and **they shall be brought into bondage**; and they shall be afflicted by the hand of their enemies.
+                        *   G. And it shall come to pass that they shall know that **I am the Lord their God**, and am a jealous God, 
+                            *   H. visiting **the iniquities of my people**.
+                            *   H. And it shall come to pass that except **this people repent**
+                        *  G.  and turn unto **the Lord their God**,
+                    *   F. **they shall be brought into bondage**;
+                *   E. and **none shall deliver them**,
+            *   D. **except** it be **the Lord the Almighty God**.
+        *   C. Yea, and it shall come to pass that when they shall cry unto me I will be slow to hear their cries; yea, and I will suffer them that they be smitten by their enemies. And **except they repent** in sackcloth and ashes, and cry mightily to the Lord their God,
+    *   B. **I will not hear** *their prayers, neither will I deliver them out of their afflictions*;
 *   A. and **thus saith the Lord, and thus hath he commanded me**.
 
 ## Alma 9:12 (see also [Word Pairs](word_pairs.md#alma-912-see-also-chiasmus))
