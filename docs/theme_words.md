@@ -125,6 +125,14 @@ fatlings; and also a **fifth** part of all their grain.
 It's interesting that it says "fifth" five times, summing up to a total of one
 whole.
 
+## Mosiah 7:22 ("Half")
+
+And behold, we at this time do pay tribute to the king of the Lamanites, to the amount of **one half** of our corn, and our barley, and even all our grain of every kind, and **one half** of the increase of our flocks and our herds; and even **one half** of all we have or possess the king of the Lamanites doth exact of us, or our lives.
+
+## Mosiah 19:25 - 21:3 ("Oath")
+
+TODO
+
 ## Alma 5:57-58 ("Names")
 
 And now I say unto you, all you that are desirous to follow the voice of the
