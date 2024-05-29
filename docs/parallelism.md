@@ -197,6 +197,16 @@ Because of the way of deliverance of our God, the Holy One of Israel,
 *   A. and *I shall also speak* unto all nations of the earth
     *   B. and *they shall write it*.
 
+## Mosiah 27:29-30 (Antithetical)
+
+*   I was in *the darkest abyss*;
+    *   **but now** I behold *the marvelous light of God*.
+*   *My soul was racked with eternal torment*;
+    *   **but** I am snatched, and *my soul is pained no more*.
+*   *I rejected my Redeemer*, and *denied that which had been spoken of by our fathers*;
+    *   **but now** that *they may foresee that he will come*, and that he remembreth
+        every creature of his creating, he will make himself manifest unto all.
+
 ## Alma 5:40 (Antithetical; see also [Disjunctive Use of "And"](disjunctive_and.md))
 
 *   For I say unto you that *whatsoever is good cometh from God*,

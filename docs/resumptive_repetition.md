@@ -71,6 +71,14 @@ how blessed are they, for they shall bsing to his praise forever. **And these
 things were done in the borders of the land**, that they might not come to the
 knowledge of the king...
 
+## Mosiah 27:10-11
+
+**And now it came to pass that while he was going about to destroy the church of God**,
+for he did go about secretly with the sons of Mosiah seeking to destroy the church,
+and to lead astray the people of the Lord, contrary to the commandments of God,
+or even the king—**And as I said unto you, as they were going about rebelling against God**,
+behold, the angel of the Lord appeared unto them...
+
 ## Alma 3:1
 
 And it came to pass that the Nephites who were not slain by the weapons of war,

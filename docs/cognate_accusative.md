@@ -33,6 +33,7 @@ not surprising given the Hebrew roots of Nephite writing" - Donald W. Parry,
 *   "people with a people" (Mosiah 8:8)
 *   "work all manner of fine work" (Mosiah 11:10; Ether 10:17)
 *   "judge righteous judgments" (Mosiah 29:29,43)
+*   "warred a good warfare" (Alma 1:1)
 *   "sing the song" (Alma 5:26)
 *   "called with a holy calling" (Alma 13:3)
 *   "covered with a shallow covering" (Alma 16:11)

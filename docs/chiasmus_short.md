@@ -240,6 +240,27 @@
     *   B. **I will not hear** *their prayers, neither will I deliver them out of their afflictions*;
 *   A. and **thus saith the Lord, and thus hath he commanded me**.
 
+## Mosiah 27:11-18
+
+*   A. **Behold**, **the angel of the Lord** appeared unto them; and he descended as it were in a cloud; and he spake as it were with **a voice of thunder**, which **caused the earth to shake** upon which they stood;
+    *   B. And so **great was their astonishment**,
+        *   C. that they **fell to the earth**,
+            *   D. and understood not **the words which he spake unto them**.
+                *   E. Nevertheless he cried again, saying: **Alma, arise and stand forth**, **for why persecutest thou the church of God**? For the Lord hath said: This is my church, and I will establish it; and nothing shall overthrow it, save it is the transgression of my people. 
+                    *   F. And again, the angel said: Behold, the Lord hath heard the prayers of **his people**, and also **the prayers of his servant, Alma**, who is **thy father**; for he has prayed with much faith concerning thee that thou mightest be brought to the knowledge of the truth;
+                        *   G. therefore, for this purpose have I come to convince thee of **the power and authority of God**, that the prayers of his servants might be answered according to their faith.
+                        *   G. And now behold, can ye dispute **the power of God**? For behold, doth not my voice shake the earth? And can ye not also behold me before you? And I am sent from God.
+                    *   F. Now I say unto thee: Go, and remember the captivity of **thy fathers** in the land of Helam, and in the land of Nephi; and remember how great things he has done for them; for they were in bondage, and he has delivered them.
+                *   E. And now I say unto thee, **Alma, go thy way**, and **seek to destroy the church no more**, that their prayers may be answered, and this even if thou wilt of thyself be cast off.
+            *   D. And now it came to pass that these were the last **words which the angel spake unto Alma**, and he departed.
+        *   C. And now Alma and those that were with him **fell again to the earth**,
+    *   B. for **great was their astonishment**;
+*   A. for with their own eyes they had **beheld** **an angel of the Lord**; and **his voice was as thunder**, which **shook the earth**;
+
+The climax of this chiasm is "the power of God". The verses immediately succeeding this chiasm confirm that this was meant to be the emphasis of the narrative:
+*   "and they knew that there was nothing save **the power of God** that could shake the earth and cause it to tremble as though it would part asunder..." (end of v. 18)
+*   "And they rehearsed unto his father all that had happened unto them; and his father rejoiced, for he knew that it was **the power of God**" (v. 20)
+
 ## Alma 9:12 (see also [Word Pairs](word_pairs.md#alma-912-see-also-chiasmus))
 
 *   A. yea, **he will visit you**
