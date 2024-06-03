@@ -261,6 +261,21 @@ The climax of this chiasm is "the power of God". The verses immediately succeedi
 *   "and they knew that there was nothing save **the power of God** that could shake the earth and cause it to tremble as though it would part asunder..." (end of v. 18)
 *   "And they rehearsed unto his father all that had happened unto them; and his father rejoiced, for he knew that it was **the power of God**" (v. 20)
 
+## Alma 5:14-20
+
+*   A. And now behold, I ask of you, my brethren of the church, **have ye spiritually been born of God**?
+    *   B. Have ye received **his image in your countenances**?
+        *   C. Have ye experienced this mighty change in your **hearts**?
+            *   D. Do ye **exercise faith** in the redemption of him who created you? Do you **look forward with an eye of faith**, and view this mortal body raised in immortality, and this corruption raised in incorruption, **to stand before God to be judged** according to the deeds which have been done in the mortal body?
+                *   E. I say unto you, **can you imagine to yourselves that ye hear the voice of the Lord**, saying unto you, in that day:
+                    *   Come unto me ye blessed, for behold, your works have been the works of righteousness upon the face of the earth?
+                *   E. Or **do ye imagine to yourselves that ye can lie unto the Lord in that day**, and say
+                    *   Lord, our works have been righteous works upon the face of the earth—and that he will save you?
+            *   D., Or otherwise, can ye imagine yourselves **brought before the tribunal of God** with your souls filled with **guilt and remorse**, having a **remembrance of all your guilt**, yea, a perfect remembrance of all **your wickedness**, yea, a remembrance that ye have set at defiance the commandments of God?
+        *   C. I say unto you, can ye look up to God at that day with a pure **heart** and clean hands?
+    *   B. I say unto you, can you look up, having **the image of God engraven upon your countenances**?
+*   A. I say unto you, can ye think of being saved when you have **yielded yourselves to become subjects to the devil**?
+
 ## Alma 9:12 (see also [Word Pairs](word_pairs.md#alma-912-see-also-chiasmus))
 
 *   A. yea, **he will visit you**

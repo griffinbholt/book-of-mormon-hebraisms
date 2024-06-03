@@ -113,6 +113,38 @@
 *   And the Lord said unto me: **(Revelation)**
 *   Stretch forth thy hand and prophesy saying: Thus saith the Lord **(Messenger)**
 
+### Alma 5
+
+*   v. 31) Wo unto such an one, for he is not prepared...! **(Woe Oracle)**
+*   v. 32) Yea, even wo unto all ye workers of iniquity; ...for the Lord God
+           hath spoken it! **(Woe Oracle)** **(Messenger)**
+*   v. 33) ...and he saith: ... **(Messenger)**
+*   v. 34) Yea, he saith: ... **(Messenger)**
+*   v. 37) O ye workers of iniquity; ye that are puffed up in the vain things
+    of the world, ye that have professed to have known the ways of righteousness
+    nevertheless have gone astray, as sheep having no shepherd, notwithstanding
+    a shepherd hath called after you and is still calling after you, but ye
+    will not hearken unto his voice! **(Proclamation)**
+*   v. 38) Behold, I say unto you, that the good shepherd doth call you; yea,
+    and in his own name he doth call you, which is the name of Christ;
+    and if ye will not hearken unto the voice of the good shepherd, to the name
+    by which ye are called, behold, ye are not the sheep of the good shepherd.
+    **(Proclamation)**
+*   v. 46) ...they are made known unto me by the Holy Spirit of God...
+    the Lord God hath made them manifest unto me by his Holy Spirit... **(Revelation)**
+*   v. 50) Yea, thus saith the Spirit: ... **(Messenger)**
+*   v. 51) And also the Spirit saith unto me, yea, crieth unto me with a
+    mighty voice, saying: ... **(Messenger / Revelation)**
+*   v. 52) And again I say unto you, the Spirit saith: ... **(Messenger)**
+*   v. 61) And now I, Alma, do command you in the language of him who hath
+    commanded me... **(Messenger)**
+
+Alma the Younger's use of prophetic forms in this sermon are notably softer
+than those usually used by other prophets. For example, instead of saying "thus
+saith the Lord," Alma attributes his reveleations to the Spirit, saying, "thus
+saith the Spirit." He also lists many sins, without explicitly saying "wo" each
+time. Even his proclamations are less direct.
+
 ### Alma 8:29
 
 *   And the word came to Alma, saying: **(Revelation)**

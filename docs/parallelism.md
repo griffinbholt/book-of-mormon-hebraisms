@@ -207,6 +207,33 @@ Because of the way of deliverance of our God, the Holy One of Israel,
     *   **but now** that *they may foresee that he will come*, and that he remembreth
         every creature of his creating, he will make himself manifest unto all.
 
+## Alma 5:7 (Coordinating)
+
+*   yea, he awakened them out of a deep sleep,
+*   and they awoke unto God.
+
+## Alma 5:7 (Antithetical)
+
+*   Behold, they were in the *midst of darkness*;
+*   *nevertheless*, their souls were illuminated by *the light of the everlasting word*;
+
+## Alma 5:28-32 (Extended; see also [Prophetic Speech Forms](prophetic_speech_forms.md#alma-5))
+
+*   A. Behold, are ye *stripped of pride*?
+    *   i. I say unto you, if ye are not *ye are not prepared to meet God*.
+    *   ii. Behold ye *must prepare quickly*;
+    *   iii. for *the kingdom of heaven is soon at hand*,
+    *   iv. and *such an one hath not eternal life*.
+*   B. Behold, I say, is there one among you who is not *stripped of envy*?
+    *   i. I say unto you that *such an one is not prepared*;
+    *   ii. and I would that he *should prepare quickly*,
+    *   iii. for *the hour is close at hand*, and he knoweth not when *the time shall come*;
+    *   iv. for *such an one is not found guiltless*.
+*   C. And again I say unto you, is there one among you that *doth make a mock of his brother, or that heapeth upon him persecutions*?
+    *   i. Wo unto such an one, for *he is not prepared*,
+    *   iii. and *the time is at hand* that he must repent
+    *   iv. or *he cannot be saved*!
+
 ## Alma 5:40 (Antithetical; see also [Disjunctive Use of "And"](disjunctive_and.md))
 
 *   For I say unto you that *whatsoever is good cometh from God*,
