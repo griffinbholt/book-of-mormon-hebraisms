@@ -197,6 +197,22 @@ Because of the way of deliverance of our God, the Holy One of Israel,
 *   A. and *I shall also speak* unto all nations of the earth
     *   B. and *they shall write it*.
 
+## Mosiah 2:40-41 (Antithetical)
+
+*   I pray
+    *   that ye should
+        *   awake to a remembrance of 
+            *   the awful situation of
+                *   those that have fallen into transgression.
+
+**And moreover,**
+
+*   I would desire
+    *   that ye should
+        *   consider on 
+             *   the blessed and happy state of
+                *   those that keep the commandments of God.
+
 ## Mosiah 27:29-30 (Antithetical)
 
 *   I was in *the darkest abyss*;
@@ -234,10 +250,12 @@ Because of the way of deliverance of our God, the Holy One of Israel,
     *   iii. and *the time is at hand* that he must repent
     *   iv. or *he cannot be saved*!
 
-## Alma 5:40 (Antithetical; see also [Disjunctive Use of "And"](disjunctive_and.md))
+## Alma 5:40-41 (Antithetical; see also [Disjunctive Use of "And"](disjunctive_and.md))
 
 *   For I say unto you that *whatsoever is good cometh from God*,
-*   and *whatsoever is evil cometh from the devil*.
+    *   and *whatsoever is evil cometh from the devil*.
+*   Therefore, if a man *bringeth forth good works* he *hearkeneth unto the voice of the good shepherd*, and *he doth follow him*;
+    *   but whosoever *bringeth forth evil works*, the same becometh a child of *the devil, for he hearkeneth unto his voice*, and *doth follow him*.
 
 ## Alma 12:33-34 (Extended)
 
